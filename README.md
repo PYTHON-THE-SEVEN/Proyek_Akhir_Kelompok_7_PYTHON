@@ -1,5 +1,31 @@
 # Sistem Pemesanan Produk Kecantikan dan Skin Care
 
+Anggota & Peran
+1. Rafi Javier Maulana (050)
+   membuat flowchart, menu, laporan
+2. 
+
+Deskripsi Program
+Proyek ini merupakan program yang dikembangkan dengan bahasa pemrograman Python. Program ini merupakan simulasi sistem manajemen toko e-commerce sederhana khusus produk perawatan kulit (skincare).
+
+adapun tujuan dari perancangan sistem pemesanan produk kecantikan dan skin care ini adalah sebagai berikut:
+1.	Merancang sistem pemesanan produk kecantikan dan skin care yang mudah digunakan oleh pelanggan sehingga dapat mempermudah proses pencarian informasi dan pemesanan produk.
+2.	Menyediakan informasi produk, harga, dan ketersediaan stok secara terstruktur agar pelanggan dapat mengetahui detail produk yang tersedia.
+3.	Merancang sistem yang dapat membantu pencatatan dan pengelolaan data pemesanan secara lebih terorganisasi guna mengurangi risiko kesalahan dalam pengolahan data.
+4.	Memudahkan penjual dalam mengelola data produk, pelanggan, dan transaksi penjualan sehingga kegiatan operasional dapat dilakukan secara lebih efektif dan efisien.
+
+
+
+
+
+
+
+
+
+
+
+
+
 3. Fungsi Tambah Barang (def tambah())
 
 <img width="896" height="675" alt="image" src="https://github.com/user-attachments/assets/cdb4819d-d75c-408d-a8db-f2994ce7f412" />
