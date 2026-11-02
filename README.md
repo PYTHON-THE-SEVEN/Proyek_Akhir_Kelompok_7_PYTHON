@@ -1,9 +1,14 @@
 # Sistem Pemesanan Produk Kecantikan dan Skin Care
 
 Anggota & Peran
-1. Rafi Javier Maulana (050)
+1. Rafi Javier Maulana (2609116050)
    membuat flowchart, menu, laporan
-2. 
+2. Deka Rizky Fauzan (2609116052)
+   
+3. Dheystrin Gloria Nafisya (2609116063)
+   
+4. Pasha Dafa Hibatullah (2609116067)
+
 
 Deskripsi Program
 Proyek ini merupakan program yang dikembangkan dengan bahasa pemrograman Python. Program ini merupakan simulasi sistem manajemen toko e-commerce sederhana khusus produk perawatan kulit (skincare).
