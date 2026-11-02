@@ -7,18 +7,29 @@ Anggota & Peran
 
 Deskripsi Program
 Proyek ini merupakan program yang dikembangkan dengan bahasa pemrograman Python. Program ini merupakan simulasi sistem manajemen toko e-commerce sederhana khusus produk perawatan kulit (skincare).
-
 adapun tujuan dari perancangan sistem pemesanan produk kecantikan dan skin care ini adalah sebagai berikut:
 1.	Merancang sistem pemesanan produk kecantikan dan skin care yang mudah digunakan oleh pelanggan sehingga dapat mempermudah proses pencarian informasi dan pemesanan produk.
 2.	Menyediakan informasi produk, harga, dan ketersediaan stok secara terstruktur agar pelanggan dapat mengetahui detail produk yang tersedia.
 3.	Merancang sistem yang dapat membantu pencatatan dan pengelolaan data pemesanan secara lebih terorganisasi guna mengurangi risiko kesalahan dalam pengolahan data.
 4.	Memudahkan penjual dalam mengelola data produk, pelanggan, dan transaksi penjualan sehingga kegiatan operasional dapat dilakukan secara lebih efektif dan efisien.
 
+Program ini membagi pengguna menjadi 2 role admin dan user
+berikut adalah fitur apa saja yang ada di setiap rolenya:
 
+Fitur Admin:
+1. Tambah Barang: Menambahkan produk skincare baru lengkap dengan nama, kode, harga, dan jumlah stok.
+2. Lihat Barang: Menampilkan daftar seluruh produk dalam bentuk tabel.
+3. Ubah Barang: Memperbarui informasi detail produk yang sudah ada.
+4. Hapus Barang: Menghapus produk dari inventaris toko.
+5. Lihat User: Memantau daftar akun pengguna yang terdaftar beserta saldo mereka.
 
+Fitur User:
+1. Pesan Barang: Melakukan transaksi pembelian produk, otomatis memotong saldo akun, mengurangi stok barang, serta mencetak invoice transaksi.
+2. Lihat Riwayat: Memeriksa rekam jejak transaksi pembelian dan pengisian saldo sebelumnya.
+3. Lihat Barang: Menampilkan daftar seluruh produk dalam bentuk tabel interaktif.
+4. Top Up Saldo: Menambahkan saldo digital akun untuk keperluan transaksi.
 
-
-
+Flowchart Serta Penjelsan
 
 
 
