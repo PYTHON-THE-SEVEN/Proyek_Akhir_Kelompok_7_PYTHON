@@ -64,15 +64,6 @@ Contoh output:
 === RIWAYAT PEMESANAN ===
 
 
-+----+---------------------+--------------+------+--------+--------------+-----------+----------+
-| No | Tanggal             | Nama Barang  | Kode | Jumlah | Harga Satuan | Total     | Status   |
-+----+---------------------+--------------+------+--------+--------------+-----------+----------+
-| 1  | 2026-10-29 19:44:31 | Top up saldo |  -   |   -    |      -       | Rp 100,000| Berhasil |
-| 2  | 2026-10-29 19:44:47 | Top up saldo |  -   |   -    |      -       | Rp 50,000 | Berhasil |
-+----+---------------------+--------------+------+--------+--------------+-----------+----------+
-
-
-🧾 Total seluruh pembelian: Rp 0
 
 Output tersebut merupakan contoh berdasarkan data top up akun Asep yang tersimpan di file JSON. Total pembelian masih nol karena belum ada transaksi pembelian barang yang tercatat.
 
