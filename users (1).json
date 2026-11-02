@@ -1,0 +1,124 @@
+[
+    {
+        "user": "admin",
+        "pw": "123",
+        "role": "admin",
+        "saldo": 0,
+        "riwayat": []
+    },
+    {
+        "user": "asep",
+        "pw": "123",
+        "role": "user",
+        "saldo": 20000,
+        "riwayat": [
+            {
+                "tipe": "topup",
+                "jumlah": 120000,
+                "waktu": "2026-10-27 19:16:08"
+            },
+            {
+                "tanggal": "28-10-2026 08:01:59",
+                "nama_barang": "suncreen",
+                "kode_barang": "ko",
+                "jumlah": 2,
+                "harga_satuan": 50000,
+                "total_harga": 100000,
+                "status": "Berhasil"
+            }
+        ]
+    },
+    {
+        "user": "asd",
+        "pw": "123",
+        "role": "user",
+        "saldo": 0,
+        "riwayat": []
+    },
+    {
+        "user": "hanif",
+        "pw": "1212",
+        "role": "user",
+        "saldo": 12227,
+        "riwayat": [
+            {
+                "tipe": "topup",
+                "jumlah": 12222,
+                "waktu": "2026-10-29 15:41:49"
+            },
+            {
+                "tipe": "topup",
+                "jumlah": 5,
+                "waktu": "2026-10-29 15:46:59"
+            }
+        ]
+    },
+    {
+        "user": "hanif",
+        "pw": "hanif",
+        "role": "user",
+        "saldo": 0,
+        "riwayat": []
+    },
+    {
+        "user": "hanif",
+        "pw": "1212",
+        "role": "user",
+        "saldo": 0,
+        "riwayat": []
+    },
+    {
+        "user": "hanif",
+        "pw": "1212",
+        "role": "user",
+        "saldo": 12222222,
+        "riwayat": [
+            {
+                "tipe": "topup",
+                "jumlah": 12222222,
+                "waktu": "2026-10-29 15:48:29"
+            }
+        ]
+    },
+    {
+        "user": "123",
+        "pw": "123",
+        "role": "user",
+        "saldo": 0,
+        "riwayat": []
+    },
+    {
+        "user": "saiful",
+        "pw": "123",
+        "role": "user",
+        "saldo": 0,
+        "riwayat": []
+    },
+    {
+        "user": "h",
+        "pw": "1",
+        "role": "user",
+        "saldo": 1222225,
+        "riwayat": []
+    },
+    {
+        "user": "rafi",
+        "pw": "123",
+        "role": "user",
+        "saldo": 0,
+        "riwayat": []
+    },
+    {
+        "user": "ajis",
+        "pw": "123",
+        "role": "user",
+        "saldo": 50000,
+        "riwayat": [
+            {
+                "tipe": "topup",
+                "jumlah": 50000,
+                "waktu": "2026-10-29 21:11:30"
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "Face wash",
+        "kode": "fw001",
+        "harga": 45900,
+        "stok": 36
+    },
+    {
+        "nama": "sunscreen",
+        "kode": "ss001",
+        "harga": 67000,
+        "stok": 48
+    },
+    {
+        "nama": "handbody",
+        "kode": "hb01",
+        "harga": 65000,
+        "stok": 34
+    }
+]
