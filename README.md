@@ -2,7 +2,10 @@
 
 
 ppppppp 
-no sekian. Fungsi Tambah Barang (def tambah())
+3. Fungsi Tambah Barang (def tambah())
+
+<img width="896" height="675" alt="image" src="https://github.com/user-attachments/assets/cdb4819d-d75c-408d-a8db-f2994ce7f412" />
+
 
 Fungsi tambah() digunakan oleh admin untuk menambahkan barang baru ke dalam daftar produk toko skincare. Admin diminta memasukkan nama barang, kode barang, harga, dan stok yang tersedia.
 
@@ -20,7 +23,10 @@ Stok Barang : 20
 
 ✅ Barang berhasil ditambahkan!
 
-no sekian. Fungsi Ubah Barang (def ubah())
+4. Fungsi Ubah Barang (def ubah())
+
+<img width="972" height="798" alt="image" src="https://github.com/user-attachments/assets/482dbd79-f2a3-4536-a0be-dcc4c32e871f" />
+
 
 Fungsi ubah() digunakan oleh admin untuk memperbarui data barang yang sudah ada. Program terlebih dahulu membaca daftar produk dan menampilkannya agar admin bisa memilih barang yang ingin diubah.
 
@@ -40,7 +46,10 @@ Masukkan Stok Baru : 40
 
 ✅ Data berhasil diperbarui.
 
-np sekian. Fungsi Riwayat Pemesanan (def riwayat())
+5. Fungsi Riwayat Pemesanan (def riwayat())
+
+<img width="743" height="802" alt="image" src="https://github.com/user-attachments/assets/80896cbb-a308-4380-87cc-8d529250bad9" />
+
 
 Fungsi riwayat() digunakan oleh pengguna untuk melihat transaksi yang pernah dilakukan, termasuk top up saldo dan pembelian barang. Program mengambil data akun dari file users (1).json, kemudian mencari akun yang sesuai dengan username pengguna yang sedang login.
 
