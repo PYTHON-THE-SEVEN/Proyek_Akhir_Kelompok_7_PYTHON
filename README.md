@@ -1,7 +1,5 @@
-# Proyek_Akhir_Kelompok_7_PYTHON
+# Sistem Pemesanan Produk Kecantikan dan Skin Care
 
-
-ppppppp 
 3. Fungsi Tambah Barang (def tambah())
 
 <img width="896" height="675" alt="image" src="https://github.com/user-attachments/assets/cdb4819d-d75c-408d-a8db-f2994ce7f412" />
@@ -66,4 +64,24 @@ Contoh output:
 
 
 Output tersebut merupakan contoh berdasarkan data top up akun Asep yang tersimpan di file JSON. Total pembelian masih nol karena belum ada transaksi pembelian barang yang tercatat.
+
+6. Fungsi regis (def regis())
+
+    <img width="300" height="230" alt="Screenshot 2026-11-02 231237" src="https://github.com/user-attachments/assets/68274629-8529-4a75-ba5e-31443411b4e4" />
+  <br>pada menu 1 yaitu registrasi saat kita memilih menu 1 kita diminta untuk memasukkan username baru dan password baru. Setelahnya program akan kembali menampilkan menu 1-3
+<br>
+7. Fungsi login (def login())
+
+   <img width="287" height="138" alt="Screenshot 2026-11-02 231408" src="https://github.com/user-attachments/assets/f9f5ce07-7aa4-4322-b27a-df857ec7edd0" />
+   <br><img width="281" height="146" alt="Screenshot 2026-11-02 231423" src="https://github.com/user-attachments/assets/564ca457-b5c8-4849-b487-00adadf2a3bd" />
+
+   menu 2 yaitu login saat kita memilih menu 2, kita diminta untuk memasukkan nama dan password yang telah diregistrasi lalu saat menekan enter program akan membersihkan terminal lalu menampilkan menu 1-3
+<br>
+8. Fungsi top up
+
+  <img width="344" height="230" alt="Screenshot 2026-11-02 230909" src="https://github.com/user-attachments/assets/3a36d07c-0410-46d8-af23-73458c43f82e" />
+   <br><img width="290" height="194" alt="Screenshot 2026-11-02 231013" src="https://github.com/user-attachments/assets/824d01b3-2311-4287-8b22-cc4914df221f" />
+  
+  setelah login program akan menampilkan menu user karena login dengan role user, lalu pilihan menu 4 untuk top up saldo. Menu top up saldo menampilkan total saldo saat ini, user diminta memasukkan nominal top up (0 untuk batal), ketika top up berhasil program menampilkan "top up berhasil saldo anda sekarang.." lalu program menampilkan kembali menu user
+
 
