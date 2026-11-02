@@ -33,29 +33,22 @@ Fitur User:
 2. Lihat Riwayat: Memeriksa rekam jejak transaksi pembelian dan pengisian saldo sebelumnya.
 3. Lihat Barang: Menampilkan daftar seluruh produk dalam bentuk tabel interaktif.
 4. Top Up Saldo: Menambahkan saldo digital akun untuk keperluan transaksi.
-.
-.
 
 Flowchart Serta Penjelsan
 
 <img width="997" height="1177" alt="1menu" src="https://github.com/user-attachments/assets/de0e811b-ca57-4699-8818-1cb91256798f" />
 
 ini merupakan menu awal dimana pengguna dapat melakukan registrasi(membuat akun), login ke akun yang sudah ada, serta keluar dari program. Disini juga menjadi tempat pengcekan role yang akan diarahkan ke menu sesuai rolenya.
-.
-.
 
 <img width="1137" height="1309" alt="1admin" src="https://github.com/user-attachments/assets/23fdaa86-a249-46ca-9c02-42851c881356" />
 
 jika seseorang login menggunakan akun admin, maka akan diarahkan ke menu admin. Admin dapat melakukan penambahan barang/produk, melihat seluruh barang/produk yang ada, mengubah data barang/produk yang ada seperti mengubah nama,stok,kode, ataupun harganya. Selain itu admin juga bisa menghapus data barang yang ada dan juga melihat data user.
-.
-.
 
 <img width="969" height="1311" alt="1users" src="https://github.com/user-attachments/assets/b59c3bb8-f26e-4036-b71e-1da5c5a0dae3" />
 
 jika seseorang login menggunakan akun user, maka akan diarahkan ke menu user. User dapat melakukan pemesanan barang, melihat riwayat pemesanan, melihat seluruh data barang/produk yang ada, dan melakukan top up saldo.
-.
-.
 
+==================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 3. Fungsi Tambah Barang (def tambah())
 
