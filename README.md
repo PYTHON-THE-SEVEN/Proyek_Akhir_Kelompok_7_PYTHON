@@ -118,6 +118,12 @@ Contoh output:
 
 7. Fungsi pesan `def pesan()`
 
-   <img width="453" height="359" alt="Screenshot 2026-11-03 200447" src="https://github.com/user-attachments/assets/7b3184d7-4d0e-4bb6-98e7-c79a22c5e3e2" />
+   <img width="380" height="371" alt="Screenshot 2026-11-03 200552" src="https://github.com/user-attachments/assets/9e7c3618-7c40-4e0c-9ab9-c25ed093ccb1" />
 
    Pada menu pemesanan, pengguna dapat memilih lebih dari satu produk dan memasukkan jumlah setiap produk. Program menampilkan jumlah barang serta total harga sementara setelah produk ditambahkan ke keranjang. Setelah pengguna selesai memilih, program menampilkan ringkasan pesanan dan meminta konfirmasi. Jika pesanan berhasil, saldo pengguna dan stok produk akan diperbarui, lalu program menampilkan invoice.
+
+8. Fungsi lihat
+
+   <img width="194" height="76" alt="Screenshot 2026-11-03 201216" src="https://github.com/user-attachments/assets/575fc729-cc96-4f80-af86-afc43048d21d" />
+
+   Menu lihat barang digunakan untuk menampilkan daftar produk yang tersimpan di file JSON. Informasi yang ditampilkan meliputi nomor barang, nama barang, kode, harga, dan jumlah stok. Jika belum ada produk yang tersimpan, program akan menampilkan pesan bahwa barang belum tersedia.
