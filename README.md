@@ -122,8 +122,21 @@ Contoh output:
 
    Pada menu pemesanan, pengguna dapat memilih lebih dari satu produk dan memasukkan jumlah setiap produk. Program menampilkan jumlah barang serta total harga sementara setelah produk ditambahkan ke keranjang. Setelah pengguna selesai memilih, program menampilkan ringkasan pesanan dan meminta konfirmasi. Jika pesanan berhasil, saldo pengguna dan stok produk akan diperbarui, lalu program menampilkan invoice.
 
-8. Fungsi lihat
-
+8. Fungsi lihat  `def lihat()`
+   
    <img width="194" height="76" alt="Screenshot 2026-11-03 201216" src="https://github.com/user-attachments/assets/575fc729-cc96-4f80-af86-afc43048d21d" />
 
    Menu lihat barang digunakan untuk menampilkan daftar produk yang tersimpan di file JSON. Informasi yang ditampilkan meliputi nomor barang, nama barang, kode, harga, dan jumlah stok. Jika belum ada produk yang tersimpan, program akan menampilkan pesan bahwa barang belum tersedia.
+
+9. Fungsi hapus  `def hapus()`
+
+<img width="251" height="97" alt="Screenshot 2026-11-03 201559" src="https://github.com/user-attachments/assets/194287cf-edeb-41e3-bfd3-da92634dc27c" />
+<img width="241" height="65" alt="Screenshot 2026-11-03 201612" src="https://github.com/user-attachments/assets/4048ba4a-9f0d-4bbd-a5dd-305ebe8320a5" />
+
+   Menu hapus barang digunakan untuk menghapus produk dari daftar. Program menampilkan daftar barang terlebih dahulu, lalu admin memilih nomor produk yang ingin dihapus. Jika nomor yang dimasukkan tersedia, produk akan dihapus dari file JSON. Jika nomor tidak ditemukan atau input bukan angka, program akan menampilkan pesan kesalahan.
+
+10. Fungsi lihat_user `def lihat_user()`
+
+    <img width="168" height="97" alt="Screenshot 2026-11-03 201819" src="https://github.com/user-attachments/assets/3911fe74-4008-4a26-878b-9a3617913205" />
+
+   Menu lihat pengguna digunakan admin untuk melihat daftar akun yang terdaftar. Informasi yang ditampilkan meliputi nomor, username, role, dan saldo pengguna. Jika belum ada data pengguna, program akan menampilkan pesan bahwa data pengguna belum tersedia.
