@@ -118,3 +118,6 @@ Contoh output:
 
 7. Fungsi pesan `def pesan()`
 
+   <img width="453" height="359" alt="Screenshot 2026-11-03 200447" src="https://github.com/user-attachments/assets/7b3184d7-4d0e-4bb6-98e7-c79a22c5e3e2" />
+
+   Pada menu pemesanan, pengguna dapat memilih lebih dari satu produk dan memasukkan jumlah setiap produk. Program menampilkan jumlah barang serta total harga sementara setelah produk ditambahkan ke keranjang. Setelah pengguna selesai memilih, program menampilkan ringkasan pesanan dan meminta konfirmasi. Jika pesanan berhasil, saldo pengguna dan stok produk akan diperbarui, lalu program menampilkan invoice.
