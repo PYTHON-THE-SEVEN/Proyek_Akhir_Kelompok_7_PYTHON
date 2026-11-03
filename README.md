@@ -8,6 +8,7 @@ Anggota & Peran
 3. Dheystrin Gloria Nafisya (2609116063)
    
 4. Pasha Dafa Hibatullah (2609116067)
+   membuat tampilan menjadi lebih menarik, mencari bug/celah,
 
 
 Deskripsi Program
