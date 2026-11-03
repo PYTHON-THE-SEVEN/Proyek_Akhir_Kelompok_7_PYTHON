@@ -121,6 +121,7 @@ Contoh output:
   <img width="344" height="230" alt="Screenshot 2026-11-02 230909" src="https://github.com/user-attachments/assets/3a36d07c-0410-46d8-af23-73458c43f82e" />
    <br><img width="290" height="194" alt="Screenshot 2026-11-02 231013" src="https://github.com/user-attachments/assets/824d01b3-2311-4287-8b22-cc4914df221f" />
   <br>
-  setelah login program akan menampilkan menu user karena login dengan role user, lalu pilihan menu 4 untuk top up saldo. Menu top up saldo menampilkan total saldo saat ini, user diminta memasukkan nominal top up (0 untuk batal), ketika top up berhasil program menampilkan "top up berhasil saldo anda sekarang.." lalu program menampilkan kembali menu user
+  setelah login program akan menampilkan menu user karena login dengan role user, lalu pilihan menu 4 untuk top up saldo. Menu top up saldo menampilkan total saldo saat ini, user diminta memasukkan nominal top up (0 untuk batal), ketika top up berhasil program menampilkan "top up berhasil saldo anda sekarang.." lalu program menampilkan kembali menu user</p>
+  
 
 
