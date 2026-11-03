@@ -99,22 +99,22 @@ Contoh output:
 
 4. Fungsi regis `def regis()`
 
-    <img width="300" height="230" alt="Screenshot 2026-11-02 231237" src="https://github.com/user-attachments/assets/68274629-8529-4a75-ba5e-31443411b4e4" />
+   <img width="288" height="296" alt="Screenshot 2026-11-03 203222" src="https://github.com/user-attachments/assets/1b5c3310-d2dd-446a-936a-cc329e399a48" />
   <br>Menu 1 adalah registrasi, ketika kita memilih menu 1, kita akan diminta untuk memasukkan username baru dan password baru. Setelahnya data username dan password akan tersimpan di file `users (1).json` lalu program akan kembali menampilkan menu 1-3
 <br>
 5. Fungsi login `def login()`
 
-   <img width="287" height="138" alt="Screenshot 2026-11-02 231408" src="https://github.com/user-attachments/assets/f9f5ce07-7aa4-4322-b27a-df857ec7edd0" />
-   <br><img width="281" height="146" alt="Screenshot 2026-11-02 231423" src="https://github.com/user-attachments/assets/564ca457-b5c8-4849-b487-00adadf2a3bd" />
+   <img width="273" height="207" alt="Screenshot 2026-11-03 203352" src="https://github.com/user-attachments/assets/3b4fc199-b592-4a63-8e34-a62940d8c25b" />
+   <br><img width="278" height="181" alt="Screenshot 2026-11-03 203321" src="https://github.com/user-attachments/assets/c8d0907d-ad23-406e-bbdf-324a4eb77a63" />
 <br>
    menu 2 adalah login, ketika kita memilih menu 2, kita akan diminta untuk memasukkan nama dan password yang telah diregistrasi atau telah tersimpan pada file `users (1).json` lalu saat menekan enter program akan membersihkan terminal lalu menampilkan menu 1-3<br>
 
 6. Fungsi top up `def topup()`
 
-  <img width="344" height="230" alt="Screenshot 2026-11-02 230909" src="https://github.com/user-attachments/assets/3a36d07c-0410-46d8-af23-73458c43f82e" />
-   <br><img width="290" height="194" alt="Screenshot 2026-11-02 231013" src="https://github.com/user-attachments/assets/824d01b3-2311-4287-8b22-cc4914df221f" />
+  <img width="292" height="249" alt="Screenshot 2026-11-03 203447" src="https://github.com/user-attachments/assets/f215aca9-61ad-4553-b788-1e0b6e3e6223" />
+<br><img width="286" height="241" alt="Screenshot 2026-11-03 203500" src="https://github.com/user-attachments/assets/ea2dab6a-9680-48f5-82f9-fe5011eb1fe1" />
   <br>
-  setelah login program akan menampilkan menu user karena pengguna login dengan role user, lalu pilihan menu 4 untuk top up saldo. Menu top up saldo menampilkan total saldo saat ini, user diminta memasukkan nominal top up (0 untuk batal), ketika top up berhasil program menampilkan "top up berhasil saldo anda sekarang.." lalu program menampilkan kembali menu user.
+  setelah login program akan menampilkan menu user karena pengguna login dengan role user, lalu pilihan menu 4 untuk top up saldo. Menu top up saldo menampilkan total saldo saat ini, user diminta memasukkan nominal top up (0 untuk batal), ketika top up berhasil program menampilkan "top up berhasil saldo anda sekarang:.." lalu program menampilkan kembali menu user.
 
 7. Fungsi pesan `def pesan()`
 
