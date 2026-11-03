@@ -10,7 +10,7 @@
 4. Pasha Dafa Hibatullah (2609116067)
    perbaikan kode, membuat tampilan kode menjadi lwbih menarik, mencari bug/celah, laporan
 
-## Deskripsi Program
+## Deskripsi & Tujuan
 Proyek ini merupakan program yang dikembangkan dengan bahasa pemrograman Python. Program ini merupakan simulasi sistem manajemen toko _e-commerce_ sederhana khusus produk perawatan kulit (_skincare_).
 adapun tujuan dari perancangan sistem pemesanan produk kecantikan dan skin care ini adalah sebagai berikut:
 1.	Merancang sistem pemesanan produk kecantikan dan skin care yang mudah digunakan oleh pelanggan sehingga dapat mempermudah proses pencarian informasi dan pemesanan produk.
@@ -56,7 +56,6 @@ jika seseorang login menggunakan akun user, maka akan diarahkan ke menu user. Us
 
 <img width="896" height="675" alt="image" src="https://github.com/user-attachments/assets/cdb4819d-d75c-408d-a8db-f2994ce7f412" />
 
-
 Fungsi tambah() digunakan oleh admin untuk menambahkan barang baru ke dalam daftar produk toko skincare. Admin diminta memasukkan nama barang, kode barang, harga, dan stok yang tersedia.
 
 Sebelum menambahkan barang, program membaca data produk yang sudah tersimpan di file produk (1).json. Harga dan stok harus berupa angka dan tidak boleh bernilai negatif. Jika input tidak sesuai, program akan menampilkan pesan peringatan dan meminta admin memasukkan data kembali.
@@ -67,11 +66,9 @@ Contoh output:
 
 <img width="347" height="155" alt="image" src="https://github.com/user-attachments/assets/4f1913a4-51d3-4b18-be7b-eaf3e7dc3a16" />
 
-
 4. Fungsi Ubah Barang (def ubah())
 
 <img width="972" height="798" alt="image" src="https://github.com/user-attachments/assets/482dbd79-f2a3-4536-a0be-dcc4c32e871f" />
-
 
 Fungsi ubah() digunakan oleh admin untuk memperbarui data barang yang sudah ada. Program terlebih dahulu membaca daftar produk dan menampilkannya agar admin bisa memilih barang yang ingin diubah.
 
@@ -85,11 +82,9 @@ Contoh output:
 
 <img width="413" height="285" alt="image" src="https://github.com/user-attachments/assets/028fd521-7884-489f-ad99-8f5dcf044ab5" />
 
-
 5. Fungsi Riwayat Pemesanan (def riwayat())
 
 <img width="743" height="802" alt="image" src="https://github.com/user-attachments/assets/80896cbb-a308-4380-87cc-8d529250bad9" />
-
 
 Fungsi riwayat() digunakan oleh pengguna untuk melihat transaksi yang pernah dilakukan, termasuk top up saldo dan pembelian barang. Program mengambil data akun dari file users (1).json, kemudian mencari akun yang sesuai dengan username pengguna yang sedang login.
 
