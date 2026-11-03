@@ -50,7 +50,26 @@ jika seseorang login menggunakan akun user, maka akan diarahkan ke menu user. Us
 
 ## Penjelasan output
 
-1. Fungsi Tambah Barang `def tambah()`
+1. Menu awal
+
+   <img width="325" height="200" alt="3menu" src="https://github.com/user-attachments/assets/6b341fd5-dbf7-4613-b945-350430ea2b77" />
+
+   Ini adalah output menu awal saat program baru dijalankan atau saat pengguna melakukan logout
+
+2. Menu admin
+
+   <img width="326" height="283" alt="3admin" src="https://github.com/user-attachments/assets/866db6c6-6f63-49f6-afc5-1a1194744343" />
+
+   ini adalah output menu admin yang dapat terpicu jika seseorang login sebagai admin.
+
+3. Menu user
+
+   <img width="314" height="242" alt="3user" src="https://github.com/user-attachments/assets/31796f89-d694-4b47-81d2-832295e0c49a" />
+
+    ini adalah output menu user yang dapat terpicu jika seseorang login sebagai user.
+
+
+4. Fungsi Tambah Barang `def tambah()`
 
 <img width="332" height="253" alt="image" src="https://github.com/user-attachments/assets/a960f0e0-9d1e-4dbb-9839-179c56273f05" />
 
@@ -64,7 +83,7 @@ Contoh output:
 
 <img width="347" height="155" alt="image" src="https://github.com/user-attachments/assets/4f1913a4-51d3-4b18-be7b-eaf3e7dc3a16" />
 
-2. Fungsi Ubah Barang `def ubah()`
+5. Fungsi Ubah Barang `def ubah()`
 
 <img width="332" height="253" alt="image" src="https://github.com/user-attachments/assets/b73553c9-ccbb-4bb0-9811-418088502736" />
 
@@ -80,7 +99,7 @@ Contoh output:
 
 <img width="413" height="285" alt="image" src="https://github.com/user-attachments/assets/028fd521-7884-489f-ad99-8f5dcf044ab5" />
 
-3. Fungsi Riwayat Pemesanan `def riwayat()`
+6. Fungsi Riwayat Pemesanan `def riwayat()`
 
 <img width="337" height="236" alt="image" src="https://github.com/user-attachments/assets/d9da7d66-1f60-44e2-9902-02745d409f63" />
 
@@ -97,45 +116,45 @@ Contoh output:
 
 <img width="930" height="207" alt="image" src="https://github.com/user-attachments/assets/41d367d2-c9c8-44a0-9878-85c19f07dc89" />
 
-4. Fungsi regis `def regis()`
+7. Fungsi regis `def regis()`
 
    <img width="288" height="296" alt="Screenshot 2026-11-03 203222" src="https://github.com/user-attachments/assets/1b5c3310-d2dd-446a-936a-cc329e399a48" />
   <br>Menu 1 adalah registrasi, ketika kita memilih menu 1, kita akan diminta untuk memasukkan username baru dan password baru. Setelahnya data username dan password akan tersimpan di file `users (1).json` lalu program akan kembali menampilkan menu 1-3
 <br>
-5. Fungsi login `def login()`
+8. Fungsi login `def login()`
 
    <img width="273" height="207" alt="Screenshot 2026-11-03 203352" src="https://github.com/user-attachments/assets/3b4fc199-b592-4a63-8e34-a62940d8c25b" />
    <br><img width="278" height="181" alt="Screenshot 2026-11-03 203321" src="https://github.com/user-attachments/assets/c8d0907d-ad23-406e-bbdf-324a4eb77a63" />
 <br>
    menu 2 adalah login, ketika kita memilih menu 2, kita akan diminta untuk memasukkan nama dan password yang telah diregistrasi atau telah tersimpan pada file `users (1).json` lalu saat menekan enter program akan membersihkan terminal lalu menampilkan menu 1-3<br>
 
-6. Fungsi top up `def topup()`
+9. Fungsi top up `def topup()`
 
   <img width="292" height="249" alt="Screenshot 2026-11-03 203447" src="https://github.com/user-attachments/assets/f215aca9-61ad-4553-b788-1e0b6e3e6223" />
 <br><img width="286" height="241" alt="Screenshot 2026-11-03 203500" src="https://github.com/user-attachments/assets/ea2dab6a-9680-48f5-82f9-fe5011eb1fe1" />
   <br>
   setelah login program akan menampilkan menu user karena pengguna login dengan role user, lalu pilihan menu 4 untuk top up saldo. Menu top up saldo menampilkan total saldo saat ini, user diminta memasukkan nominal top up (0 untuk batal), ketika top up berhasil program menampilkan "top up berhasil saldo anda sekarang:.." lalu program menampilkan kembali menu user.
 
-7. Fungsi pesan `def pesan()`
+10. Fungsi pesan `def pesan()`
 
    <img width="380" height="371" alt="Screenshot 2026-11-03 200552" src="https://github.com/user-attachments/assets/9e7c3618-7c40-4e0c-9ab9-c25ed093ccb1" />
 
    Pada menu pemesanan, pengguna dapat memilih lebih dari satu produk dan memasukkan jumlah setiap produk. Program menampilkan jumlah barang serta total harga sementara setelah produk ditambahkan ke keranjang. Setelah pengguna selesai memilih, program menampilkan ringkasan pesanan dan meminta konfirmasi. Jika pesanan berhasil, saldo pengguna dan stok produk akan diperbarui, lalu program menampilkan invoice.
 
-8. Fungsi lihat  `def lihat()`
+11. Fungsi lihat  `def lihat()`
    
    <img width="194" height="76" alt="Screenshot 2026-11-03 201216" src="https://github.com/user-attachments/assets/575fc729-cc96-4f80-af86-afc43048d21d" />
 
    Menu lihat barang digunakan untuk menampilkan daftar produk yang tersimpan di file JSON. Informasi yang ditampilkan meliputi nomor barang, nama barang, kode, harga, dan jumlah stok. Jika belum ada produk yang tersimpan, program akan menampilkan pesan bahwa barang belum tersedia.
 
-9. Fungsi hapus  `def hapus()`
+12. Fungsi hapus  `def hapus()`
 
 <img width="251" height="97" alt="Screenshot 2026-11-03 201559" src="https://github.com/user-attachments/assets/194287cf-edeb-41e3-bfd3-da92634dc27c" />
 <img width="241" height="65" alt="Screenshot 2026-11-03 201612" src="https://github.com/user-attachments/assets/4048ba4a-9f0d-4bbd-a5dd-305ebe8320a5" />
 
    Menu hapus barang digunakan untuk menghapus produk dari daftar. Program menampilkan daftar barang terlebih dahulu, lalu admin memilih nomor produk yang ingin dihapus. Jika nomor yang dimasukkan tersedia, produk akan dihapus dari file JSON. Jika nomor tidak ditemukan atau input bukan angka, program akan menampilkan pesan kesalahan.
 
-10. Fungsi lihat_user `def lihat_user()`
+13. Fungsi lihat_user `def lihat_user()`
 
     <img width="168" height="97" alt="Screenshot 2026-11-03 201819" src="https://github.com/user-attachments/assets/3911fe74-4008-4a26-878b-9a3617913205" />
 
