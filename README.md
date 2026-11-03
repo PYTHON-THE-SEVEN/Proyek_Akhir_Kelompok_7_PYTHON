@@ -4,7 +4,7 @@
 1. Rafi Javier Maulana (2609116050)
    membuat flowchart, kode menu, kode sistem awal, laporan
 2. Deka Rizky Fauzan (2609116052)
-   Membuat riwayat pemesanan, laporan
+   Membuat fitur riwayat pemesanan, laporan
 3. Dheystrin Gloria Nafisya (2609116063)
    Membuat fitur top up saldo, laporan
 4. Pasha Dafa Hibatullah (2609116067)
@@ -50,9 +50,9 @@ jika seseorang login menggunakan akun user, maka akan diarahkan ke menu user. Us
 
 ## Penjelasan output
 
-3. Fungsi Tambah Barang (def tambah())
+1. Fungsi Tambah Barang (def tambah())
 
-<img width="896" height="675" alt="image" src="https://github.com/user-attachments/assets/cdb4819d-d75c-408d-a8db-f2994ce7f412" />
+<img width="332" height="253" alt="image" src="https://github.com/user-attachments/assets/a960f0e0-9d1e-4dbb-9839-179c56273f05" />
 
 Fungsi tambah() digunakan oleh admin untuk menambahkan barang baru ke dalam daftar produk toko skincare. Admin diminta memasukkan nama barang, kode barang, harga, dan stok yang tersedia.
 
@@ -64,9 +64,9 @@ Contoh output:
 
 <img width="347" height="155" alt="image" src="https://github.com/user-attachments/assets/4f1913a4-51d3-4b18-be7b-eaf3e7dc3a16" />
 
-4. Fungsi Ubah Barang (def ubah())
+2. Fungsi Ubah Barang (def ubah())
 
-<img width="972" height="798" alt="image" src="https://github.com/user-attachments/assets/482dbd79-f2a3-4536-a0be-dcc4c32e871f" />
+<img width="332" height="253" alt="image" src="https://github.com/user-attachments/assets/b73553c9-ccbb-4bb0-9811-418088502736" />
 
 Fungsi ubah() digunakan oleh admin untuk memperbarui data barang yang sudah ada. Program terlebih dahulu membaca daftar produk dan menampilkannya agar admin bisa memilih barang yang ingin diubah.
 
@@ -80,9 +80,10 @@ Contoh output:
 
 <img width="413" height="285" alt="image" src="https://github.com/user-attachments/assets/028fd521-7884-489f-ad99-8f5dcf044ab5" />
 
-5. Fungsi Riwayat Pemesanan (def riwayat())
+3. Fungsi Riwayat Pemesanan (def riwayat())
 
-<img width="743" height="802" alt="image" src="https://github.com/user-attachments/assets/80896cbb-a308-4380-87cc-8d529250bad9" />
+<img width="337" height="236" alt="image" src="https://github.com/user-attachments/assets/d9da7d66-1f60-44e2-9902-02745d409f63" />
+
 
 Fungsi riwayat() digunakan oleh pengguna untuk melihat transaksi yang pernah dilakukan, termasuk top up saldo dan pembelian barang. Program mengambil data akun dari file users (1).json, kemudian mencari akun yang sesuai dengan username pengguna yang sedang login.
 
@@ -96,19 +97,19 @@ Contoh output:
 
 <img width="930" height="207" alt="image" src="https://github.com/user-attachments/assets/41d367d2-c9c8-44a0-9878-85c19f07dc89" />
 
-6. Fungsi regis `def regis()`
+4. Fungsi regis `def regis()`
 
     <img width="300" height="230" alt="Screenshot 2026-11-02 231237" src="https://github.com/user-attachments/assets/68274629-8529-4a75-ba5e-31443411b4e4" />
   <br>pada menu 1 yaitu registrasi saat kita memilih menu 1 kita diminta untuk memasukkan username baru dan password baru. Setelahnya program akan kembali menampilkan menu 1-3
 <br>
-7. Fungsi login `def login()`
+5. Fungsi login `def login()`
 
    <img width="287" height="138" alt="Screenshot 2026-11-02 231408" src="https://github.com/user-attachments/assets/f9f5ce07-7aa4-4322-b27a-df857ec7edd0" />
    <br><img width="281" height="146" alt="Screenshot 2026-11-02 231423" src="https://github.com/user-attachments/assets/564ca457-b5c8-4849-b487-00adadf2a3bd" />
 <br>
    menu 2 yaitu login saat kita memilih menu 2, kita diminta untuk memasukkan nama dan password yang telah diregistrasi lalu saat menekan enter program akan membersihkan terminal lalu menampilkan menu 1-3<br>
 
-8. Fungsi top up `def topup()`
+6. Fungsi top up `def topup()`
 
   <img width="344" height="230" alt="Screenshot 2026-11-02 230909" src="https://github.com/user-attachments/assets/3a36d07c-0410-46d8-af23-73458c43f82e" />
    <br><img width="290" height="194" alt="Screenshot 2026-11-02 231013" src="https://github.com/user-attachments/assets/824d01b3-2311-4287-8b22-cc4914df221f" />
