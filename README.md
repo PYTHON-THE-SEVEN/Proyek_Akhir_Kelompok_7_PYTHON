@@ -21,14 +21,14 @@ adapun tujuan dari perancangan sistem pemesanan produk kecantikan dan skin care 
 Program ini membagi pengguna menjadi 2 role admin dan user
 berikut adalah fitur apa saja yang ada di setiap rolenya:
 
-## Fitur Admin:
+### Fitur Admin:
 1. Tambah Barang: Menambahkan produk skincare baru lengkap dengan nama, kode, harga, dan jumlah stok.
 2. Lihat Barang: Menampilkan daftar seluruh produk dalam bentuk tabel.
 3. Ubah Barang: Memperbarui informasi detail produk yang sudah ada.
 4. Hapus Barang: Menghapus produk dari inventaris toko.
 5. Lihat User: Memantau daftar akun pengguna yang terdaftar beserta saldo mereka.
 
-## Fitur User:
+### Fitur User:
 1. Pesan Barang: Melakukan transaksi pembelian produk, otomatis memotong saldo akun, mengurangi stok barang, serta mencetak _invoice_ transaksi.
 2. Lihat Riwayat: Memeriksa rekam jejak transaksi pembelian dan pengisian saldo sebelumnya.
 3. Lihat Barang: Menampilkan daftar seluruh produk dalam bentuk tabel interaktif.
