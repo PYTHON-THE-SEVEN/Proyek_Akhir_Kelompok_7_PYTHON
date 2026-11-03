@@ -1,4 +1,4 @@
-# Sistem Pemesanan Produk Kecantikan dan Skin Care :pouch:  
+# Sistem Pemesanan Produk Kecantikan dan Skin Care :pouch: :shopping: 
 
 ## Anggota & Peran
 1. Rafi Javier Maulana (2609116050)
@@ -9,7 +9,6 @@
    Membuat fitur top up saldo, laporan
 4. Pasha Dafa Hibatullah (2609116067)
    perbaikan kode, membuat tampilan kode menjadi lwbih menarik, mencari bug/celah, laporan
-
 
 ## Deskripsi Program
 Proyek ini merupakan program yang dikembangkan dengan bahasa pemrograman Python. Program ini merupakan simulasi sistem manajemen toko e-commerce sederhana khusus produk perawatan kulit (skincare).
@@ -104,19 +103,19 @@ Contoh output:
 
 <img width="930" height="207" alt="image" src="https://github.com/user-attachments/assets/41d367d2-c9c8-44a0-9878-85c19f07dc89" />
 
-6. Fungsi regis (def regis())
+6. Fungsi regis (`def regis()`)
 
     <img width="300" height="230" alt="Screenshot 2026-11-02 231237" src="https://github.com/user-attachments/assets/68274629-8529-4a75-ba5e-31443411b4e4" />
   <br>pada menu 1 yaitu registrasi saat kita memilih menu 1 kita diminta untuk memasukkan username baru dan password baru. Setelahnya program akan kembali menampilkan menu 1-3
 <br>
-7. Fungsi login (def login())
+7. Fungsi login (`def login()`)
 
    <img width="287" height="138" alt="Screenshot 2026-11-02 231408" src="https://github.com/user-attachments/assets/f9f5ce07-7aa4-4322-b27a-df857ec7edd0" />
    <br><img width="281" height="146" alt="Screenshot 2026-11-02 231423" src="https://github.com/user-attachments/assets/564ca457-b5c8-4849-b487-00adadf2a3bd" />
 <br>
    menu 2 yaitu login saat kita memilih menu 2, kita diminta untuk memasukkan nama dan password yang telah diregistrasi lalu saat menekan enter program akan membersihkan terminal lalu menampilkan menu 1-3<br>
 
-8. Fungsi top up
+8. Fungsi top up (`def topup()`)
 
   <img width="344" height="230" alt="Screenshot 2026-11-02 230909" src="https://github.com/user-attachments/assets/3a36d07c-0410-46d8-af23-73458c43f82e" />
    <br><img width="290" height="194" alt="Screenshot 2026-11-02 231013" src="https://github.com/user-attachments/assets/824d01b3-2311-4287-8b22-cc4914df221f" />
