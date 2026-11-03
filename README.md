@@ -1,12 +1,12 @@
 # Sistem Pemesanan Produk Kecantikan dan Skin Care
 
-Anggota & Peran
+## Anggota & Peran
 1. Rafi Javier Maulana (2609116050)
    membuat flowchart, kode menu, kode sistem awal, laporan
 2. Deka Rizky Fauzan (2609116052)
    Membuat riwayat pemesanan, laporan
 3. Dheystrin Gloria Nafisya (2609116063)
-   
+   Membuat fitur top up saldo, laporan
 4. Pasha Dafa Hibatullah (2609116067)
    perbaikan kode, membuat tampilan kode menjadi lwbih menarik, mencari bug/celah, laporan
 
