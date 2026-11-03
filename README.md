@@ -48,8 +48,6 @@ jika seseorang login menggunakan akun admin, maka akan diarahkan ke menu admin. 
 
 jika seseorang login menggunakan akun user, maka akan diarahkan ke menu user. User dapat melakukan pemesanan barang, melihat riwayat pemesanan, melihat seluruh data barang/produk yang ada, dan melakukan top up saldo.
 
-========================================================================================================================================================================================
-
 ## Penjelasan output
 
 3. Fungsi Tambah Barang (def tambah())
