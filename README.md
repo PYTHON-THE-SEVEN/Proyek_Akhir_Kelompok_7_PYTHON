@@ -4,7 +4,7 @@ Anggota & Peran
 1. Rafi Javier Maulana (2609116050)
    membuat flowchart, kode menu, kode sistem awal, laporan
 2. Deka Rizky Fauzan (2609116052)
-   
+   Membuat riwayat pemesanan, laporan
 3. Dheystrin Gloria Nafisya (2609116063)
    
 4. Pasha Dafa Hibatullah (2609116067)
@@ -65,13 +65,8 @@ Setelah semua data diisi, program menyimpan data barang ke dalam bentuk dictiona
 
 Contoh output:
 
-📦 TAMBAH DATA BARANG
-Masukkan Nama Barang : moisturizer
-Masukkan Kode Barang : ms001
-Masukkan Harga Barang: 85000
-Stok Barang : 20
+<img width="347" height="155" alt="image" src="https://github.com/user-attachments/assets/4f1913a4-51d3-4b18-be7b-eaf3e7dc3a16" />
 
-✅ Barang berhasil ditambahkan!
 
 4. Fungsi Ubah Barang (def ubah())
 
@@ -88,13 +83,8 @@ Pada fungsi ini, seluruh data barang diganti berdasarkan input baru, sehingga ad
 
 Contoh output:
 
-Pilih data yang mau di ubah: 2
-Masukkan Nama Barang baru : sunscreen
-Masukkan Kode baru : ss001
-Masukkan Harga Baru : 70000
-Masukkan Stok Baru : 40
+<img width="413" height="285" alt="image" src="https://github.com/user-attachments/assets/028fd521-7884-489f-ad99-8f5dcf044ab5" />
 
-✅ Data berhasil diperbarui.
 
 5. Fungsi Riwayat Pemesanan (def riwayat())
 
@@ -111,11 +101,7 @@ Program juga membedakan transaksi top up dan pembelian barang. Transaksi top up 
 
 Contoh output:
 
-=== RIWAYAT PEMESANAN ===
-
-
-
-Output tersebut merupakan contoh berdasarkan data top up akun Asep yang tersimpan di file JSON. Total pembelian masih nol karena belum ada transaksi pembelian barang yang tercatat.
+<img width="930" height="207" alt="image" src="https://github.com/user-attachments/assets/41d367d2-c9c8-44a0-9878-85c19f07dc89" />
 
 6. Fungsi regis (def regis())
 
