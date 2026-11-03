@@ -1,4 +1,4 @@
-# Sistem Pemesanan Produk Kecantikan dan Skin Care :lipstick: :pouch:  
+# Sistem Pemesanan Produk Kecantikan dan Skin Care :pouch:  
 
 ## Anggota & Peran
 1. Rafi Javier Maulana (2609116050)
